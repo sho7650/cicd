@@ -118,6 +118,8 @@ GEM
     nio4r (2.5.8)
     nokogiri (1.13.8-x86_64-darwin)
       racc (~> 1.4)
+    nokogiri (1.13.8-x86_64-linux)
+      racc (~> 1.4)
     pg (1.4.3)
     puma (5.6.5)
       nio4r (~> 2.0)
@@ -177,6 +179,7 @@ GEM
       rspec-support (~> 3.10)
     rspec-support (3.11.1)
     sqlite3 (1.5.0-x86_64-darwin)
+    sqlite3 (1.5.0-x86_64-linux)
     statsd-ruby (1.5.0)
     strscan (3.0.4)
     thor (1.2.1)
@@ -195,6 +198,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   barnes
