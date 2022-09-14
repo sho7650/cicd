@@ -1,5 +1,5 @@
-require 'codacy-coverage'
-Codacy::Reporter.start
+# require 'codacy-coverage'
+# Codacy::Reporter.start
 
 require 'knapsack_pro'
 KnapsackPro::Adapters::RSpecAdapter.bind
