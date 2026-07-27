@@ -105,7 +105,7 @@ GEM
     jbuilder (2.14.1)
       actionview (>= 7.0.0)
       activesupport (>= 7.0.0)
-    json (2.15.1)
+    json (2.19.9)
     knapsack_pro (8.4.0)
       rake
     listen (3.9.0)
